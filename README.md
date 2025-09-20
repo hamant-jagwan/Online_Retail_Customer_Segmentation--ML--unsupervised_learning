@@ -1,10 +1,13 @@
+# Online Retail Customer Segmentation  
+
 ## Link to Dataset.
    https://docs.google.com/spreadsheets/d/1_W3Jfp1bTWpPFmqyGgGXYJGd0rHIV8dD/edit#gid=501524341
    
 <p align="center"> 
 <img src=""  width="600" height="400" alt="GIF">
 </p>
-# Online Retail Customer Segmentation  
+
+
 
 ## 📌 Project Overview  
 This project applies **Unsupervised Machine Learning** techniques to perform **customer segmentation** on an **online retail dataset**. The aim is to group customers into meaningful clusters based on their purchase behavior, enabling businesses to:  
